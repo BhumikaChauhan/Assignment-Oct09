@@ -15,4 +15,4 @@ Answer2: Yes we can zip together more than 2 list togther.
 >>> res1=zip(x,y,z)
 >>> res1
 [(1, 'a', 'Apple'), (2, 'b', 'Banana'), (3, 'c', 'Carrot'), (4, 'd', 'Orange'), (5, 'e', 'Ginger'), (6, 'f', 'Tomatoes'), (7, 'g', 'Potatoes')]
->>>
+
